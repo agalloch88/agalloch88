@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **MERN, NextJS, Tailwind, and Python**
 
-- 📫 How to reach me **ryankirsch88@gmail.com**
+- 📫 How to reach me: **ryankirsch88@gmail.com**
 
-- ⚡ Fun fact **I love metal, jiu jitsu, and all things beer.**
+- ⚡ Fun facts: **I love metal, jiu jitsu, and all things beer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
