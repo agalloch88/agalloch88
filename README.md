@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agalloch88" alt="agalloch88" /></a> </p>
 
-- 🔭 I’m currently working on **a bunch of traditional web applications, as well as web3 projects on Ethereum and Cardano blockchains.**
+- 🔭 I’m currently working on **a bunch of traditional web applications, and building cool new things for the Philadelphia Inquirer.**
 
-- 🌱 I’m currently learning **Haskell/Plutus, TypeScript, Data Structures & Algorithms**
+- 🌱 I’m currently learning **Everything Salesforce, TypeScript, Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://www.ryankirsch.dev](https://www.ryankirsch.dev)
 
